@@ -30,8 +30,7 @@
 ## Estadisticas:
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=natimmansilla&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natimmansilla&layout=compact&text_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=natimmansilla&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=natimmansilla&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Contacto:
