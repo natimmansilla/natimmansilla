@@ -1,5 +1,7 @@
 # Hola Soy Natalia, un gusto que visites mi página!👋
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natimmansilla/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:natimmansilla@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
 
 🎓 Actualmente estoy estudiando <b>Ingenieria de Sistemas de la Información</b> en la Universidad Tecnológica Nacional de Argentina, pero soy muy <b>autodidacta</b>, por lo que también aprendo con documentación de cada tecnologia.
@@ -56,9 +58,10 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 ## Contacto:
 <p align="center">
-<a href="https://www.linkedin.com/in/natimmansilla/" target="blank"><img align="center" src="https://img.shields.io/badge/Natalia Mansilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
-<a href="mailto:natimmansilla@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/natimmansilla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
-<a href="https://github.com/natimmansilla" target="blank"><img align="center" src="https://img.shields.io/badge/natimmansilla-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/natimmansilla/" target="blank"><img src="https://img.shields.io/badge/Natalia Mansilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+<a href="mailto:natimmansilla@gmail.com" target="blank"><img src="https://img.shields.io/badge/natimmansilla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/natimmansilla/"><img src="https://img.shields.io/badge/@natimmansilla-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="@natimmansilla" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/natimmansilla" target="blank"><img src="https://img.shields.io/badge/natimmansilla-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 
