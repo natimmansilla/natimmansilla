@@ -33,7 +33,10 @@
 
 
 ## Contacto:
-<a href="https://www.linkedin.com/in/natimmansilla/" target="blank"><img align="center" src="https://img.shields.io/badge/Natalia Mansilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:natimmansilla@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/natimmansilla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/natimmansilla" target="blank"><img align="center" src="https://img.shields.io/badge/natimmansilla-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/natimmansilla/" target="blank"><img align="center" src="https://img.shields.io/badge/Natalia Mansilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+<a href="mailto:natimmansilla@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/natimmansilla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+<a href="https://github.com/natimmansilla" target="blank"><img align="center" src="https://img.shields.io/badge/natimmansilla-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 
