@@ -2,4 +2,11 @@
 
 ## Tecnologías que estoy aprendiendo:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,django,docker,figma,git,github,gitlab,html,ai,js,kubernetes,linux,mongodb,mysql,nodejs,ps,py,react,sass,sqlite,vscode,vue,wordpress,)](https://skillicons.dev)
+### Frontend:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,git,github,gitlab,js,vue,react,angular,figma,ps,ai,wordpress,)](https://skillicons.dev)
+
+### Backend:
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,nodejs,mysql,sqlite,mongodb,)](https://skillicons.dev)
+
+## Herramientas extras:
+[![My Skills](https://skillicons.dev/icons?i=discord,vscode,linux,docker,kubernetes,)](https://skillicons.dev)
