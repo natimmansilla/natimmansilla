@@ -37,6 +37,23 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=natimmansilla&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+---
+<details>
+<summary> Hackathons 💻: </summary>
+  
+<br/>
+
+Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
+Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
+HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
+UniHack                 -  [Check out!](https://unihack.eu/)<br/>
+NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
+Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
+ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
+
+</details>
+
+
 ## Contacto:
 <p align="center">
 <a href="https://www.linkedin.com/in/natimmansilla/" target="blank"><img align="center" src="https://img.shields.io/badge/Natalia Mansilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
