@@ -1,7 +1,13 @@
 # Hola Soy Natalia, un gusto que visites mi página!👋
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natimmansilla/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:natimmansilla@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 🎓 Actualmente estoy estudiando <b>Ingenieria de Sistemas de la Información</b> en la Universidad Tecnológica Nacional de Argentina, pero soy muy <b>autodidacta</b>, por lo que también aprendo con documentación de cada tecnologia.
@@ -38,6 +44,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natimmansilla&layout=compact&text_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=natimmansilla&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href="https://github.com/natimmansilla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=natimmansilla" />
+</a>
+
 
 ---
 <details>
@@ -64,8 +74,4 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 <a href="https://github.com/natimmansilla" target="blank"><img src="https://img.shields.io/badge/natimmansilla-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natimmansilla&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
 
