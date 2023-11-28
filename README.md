@@ -1,4 +1,4 @@
-# Hola Soy Nati Mansilla👋
+# Hola Soy Natalia, un gusto que visites mi página!👋
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
 
