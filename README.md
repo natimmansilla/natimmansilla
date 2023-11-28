@@ -2,7 +2,7 @@
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
 
-🎓 Actualmente estoy estudiando Ingenieria de Sistemas de la Información en la Universidad Tecnológica Nacional de Argentina, pero soy muy autodidacta, por lo que tambien aprendo de documentación que encuentro por ahi.
+🎓 Actualmente estoy estudiando Ingenieria de Sistemas de la Información en la Universidad Tecnológica Nacional de Argentina, pero soy muy autodidacta, por lo que tambien aprendo con documentación de cada tecnologia.
 
 🌱 Estoy en camino de aprender más sobre Desarrollo Web Fullstack.
 
