@@ -73,5 +73,3 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 <a href="https://www.instagram.com/natimmansilla/"><img src="https://img.shields.io/badge/@natimmansilla-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="@natimmansilla" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/natimmansilla" target="blank"><img src="https://img.shields.io/badge/natimmansilla-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-  
-
