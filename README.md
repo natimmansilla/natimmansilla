@@ -1,5 +1,7 @@
 # Hola Soy Natalia, un gusto que visites mi página!👋
 
+
+
 🎓 Actualmente estoy estudiando <b>Ingenieria de Sistemas de la Información</b> en la Universidad Tecnológica Nacional de Argentina, pero soy muy <b>autodidacta</b>, por lo que también aprendo con documentación de cada tecnologia.
 
 🌱 Estoy en camino de aprender más sobre <b>Desarrollo Web Fullstack</b>.
@@ -27,9 +29,14 @@
 
 ## Estadisticas:
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=natimmansilla&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natimmansilla&layout=compact&text_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contacto:
+<a href="https://www.linkedin.com/in/natimmansilla/" target="blank"><img align="center" src="https://img.shields.io/badge/Natalia Mansilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:natimmansilla@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/natimmansilla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/natimmansilla" target="blank"><img align="center" src="https://img.shields.io/badge/natimmansilla-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+  
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natimmansilla&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
