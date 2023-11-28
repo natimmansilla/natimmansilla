@@ -26,6 +26,10 @@
 ### Herramientas extras:
 [![My Skills](https://skillicons.dev/icons?i=discord,vscode,linux,docker,kubernetes&perline=7)](https://skillicons.dev)
 
+## Mis Proyectos en desarrollo ✨:
+<a href="https://github.com/natimmansilla/AlphaFood">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natimmansilla&repo=AlphaFood&theme=" />
+</a>
 
 ## Estadisticas:
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=natimmansilla&show_icons=true)
