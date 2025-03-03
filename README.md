@@ -75,5 +75,5 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 <a href="https://www.linkedin.com/in/nataliammansilla/" target="blank"><img src="https://img.shields.io/badge/Natalia Mansilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
 <a href="mailto:natimmansilla@gmail.com" target="blank"><img src="https://img.shields.io/badge/natimmansilla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/natimmansilla/"><img src="https://img.shields.io/badge/@natimmansilla-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="@natimmansilla" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/nataliammansilla" target="blank"><img src="https://img.shields.io/badge/nataliammansilla-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/natimmansilla" target="blank"><img src="https://img.shields.io/badge/natimmansilla-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
